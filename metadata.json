@@ -1,0 +1,6 @@
+{
+  "name": "FynTraker Hub",
+  "description": "A premium, interactive daily habit tracker landing page and productivity workspace featuring dynamic scheduling and custom streak management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
